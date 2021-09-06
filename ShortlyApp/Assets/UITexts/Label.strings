@@ -1,0 +1,13 @@
+/* 
+  UiTexts.strings
+  ShortlyApp
+
+  Created by Claudio Villanueva on 02-09-21.
+  
+*/
+
+"home_title" = "Let’s get started!";
+"home_subhead" = "Paste your first link into\nthe field to shorten it";
+"home_links_history" = "Your Link History";
+"home_error_alert_title" = "An error happened!";
+"home_error_alert_message_unknown" = "Unknown error";

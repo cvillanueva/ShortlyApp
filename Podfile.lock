@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (5.4.3)
+  - Cuckoo (1.5.1):
+    - Cuckoo/Swift (= 1.5.1)
+  - Cuckoo/Swift (1.5.1)
+  - RxCocoa (6.2.0):
+    - RxRelay (= 6.2.0)
+    - RxSwift (= 6.2.0)
+  - RxRelay (6.2.0):
+    - RxSwift (= 6.2.0)
+  - RxSwift (6.2.0)
+  - Swinject (2.8.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Cuckoo
+  - RxCocoa
+  - RxSwift
+  - Swinject
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cuckoo
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - Swinject
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  Cuckoo: 9124fe138270854903483c270370e6e7658fbc9b
+  RxCocoa: 4baf94bb35f2c0ab31bc0cb9f1900155f646ba42
+  RxRelay: e72dbfd157807478401ef1982e1c61c945c94b2f
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+  Swinject: db795b8d6d78559b25fbebb0170d2635be1176e2
+
+PODFILE CHECKSUM: 5f3fc8599de48bb2c69d4a6909c7ec4c9cf4dc25
+
+COCOAPODS: 1.10.1

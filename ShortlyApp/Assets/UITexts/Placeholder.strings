@@ -1,0 +1,10 @@
+/* 
+  Placeholder.strings
+  ShortlyApp
+
+  Created by Claudio Villanueva on 02-09-21.
+  
+*/
+
+"home_link" = "Shorten a link here ...";
+"home_link_error" = "Please add a link here ...";

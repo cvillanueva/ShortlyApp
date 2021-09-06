@@ -1,0 +1,12 @@
+/* 
+  Button.strings
+  ShortlyApp
+
+  Created by Claudio Villanueva on 02-09-21.
+  
+*/
+
+"home_shorten_it" = "SHORTEN IT!";
+"home_alert_ok" = "Ok";
+"historical_link_copy" = "COPY";
+"historical_link_copied" = "COPIED!";
