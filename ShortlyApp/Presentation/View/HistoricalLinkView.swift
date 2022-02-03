@@ -42,7 +42,7 @@ final class HistoricalLinkView: UIView {
         return label
     }()
 
-    private var deleteButton: UIButton = {
+    private lazy var deleteButton: UIButton = {
         let button = UIButton()
         button.translatesAutoresizingMaskIntoConstraints = false
         button.setImage(Asset.Assets.del.image, for: .normal)
@@ -58,7 +58,7 @@ final class HistoricalLinkView: UIView {
         return label
     }()
 
-    private var copyButton: UIButton = {
+    private lazy var copyButton: UIButton = {
         let button = UIButton()
         button.translatesAutoresizingMaskIntoConstraints = false
         button.layer.backgroundColor = Asset.Colors.primaryCyan.color.cgColor

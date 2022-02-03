@@ -146,7 +146,7 @@ final class HomeViewController: BaseViewController<HomeViewModel, Coordinator> {
         return textField
     }()
 
-    private var shortenItButton: UIButton = {
+    private lazy var shortenItButton: UIButton = {
         let button = UIButton()
         button.translatesAutoresizingMaskIntoConstraints = false
         button.layer.backgroundColor = Asset.Colors.primaryCyan.color.cgColor

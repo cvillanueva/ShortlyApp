@@ -5,6 +5,8 @@ target 'ShortlyApp' do
   pod 'RxCocoa'
   pod 'Alamofire'
   pod 'Swinject'
+  pod 'SwiftGen'
+  pod 'SwiftLint'
 
   target 'ShortlyAppTests' do
     pod 'Cuckoo'

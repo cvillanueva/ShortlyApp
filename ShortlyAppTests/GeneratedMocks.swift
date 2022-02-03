@@ -1,4 +1,4 @@
-// MARK: - Mocks generated from file: ShortlyApp/Data/DataSource/GetShortLinkRemoteDataSource.swift at 2021-09-06 22:41:32 +0000
+// MARK: - Mocks generated from file: ShortlyApp/Data/DataSource/GetShortLinkRemoteDataSource.swift at 2022-02-03 19:31:49 +0000
 
 //
 //  GetShortLinkRemoteDataSource.swift
@@ -103,7 +103,7 @@ import Foundation
 }
 
 
-// MARK: - Mocks generated from file: ShortlyApp/Data/DataSource/LinkLocalDataSource.swift at 2021-09-06 22:41:32 +0000
+// MARK: - Mocks generated from file: ShortlyApp/Data/DataSource/LinkLocalDataSource.swift at 2022-02-03 19:31:49 +0000
 
 //
 //  LinkLocalDataSource.swift
@@ -238,7 +238,7 @@ import Foundation
 }
 
 
-// MARK: - Mocks generated from file: ShortlyApp/Data/Manager/CacheManager.swift at 2021-09-06 22:41:32 +0000
+// MARK: - Mocks generated from file: ShortlyApp/Data/Manager/CacheManager.swift at 2022-02-03 19:31:49 +0000
 
 //
 //  CacheManager.swift
@@ -373,7 +373,7 @@ import Foundation
 }
 
 
-// MARK: - Mocks generated from file: ShortlyApp/Data/Manager/NetworkManager.swift at 2021-09-06 22:41:32 +0000
+// MARK: - Mocks generated from file: ShortlyApp/Data/Manager/NetworkManager.swift at 2022-02-03 19:31:49 +0000
 
 //
 //  NetworkManager.swift
@@ -478,7 +478,7 @@ import Foundation
 }
 
 
-// MARK: - Mocks generated from file: ShortlyApp/Data/Mapper/ShortLinkMapper.swift at 2021-09-06 22:41:32 +0000
+// MARK: - Mocks generated from file: ShortlyApp/Data/Mapper/ShortLinkMapper.swift at 2022-02-03 19:31:49 +0000
 
 //
 //  ShortLinkMapper.swift
@@ -583,7 +583,7 @@ import Foundation
 }
 
 
-// MARK: - Mocks generated from file: ShortlyApp/Data/Repository/GetLinkHistoryRepository.swift at 2021-09-06 22:41:32 +0000
+// MARK: - Mocks generated from file: ShortlyApp/Data/Repository/GetLinkHistoryRepository.swift at 2022-02-03 19:31:49 +0000
 
 //
 //  GetLinkHistoryRepository.swift
@@ -688,7 +688,7 @@ import Foundation
 }
 
 
-// MARK: - Mocks generated from file: ShortlyApp/Data/Repository/GetShortLinkRepository.swift at 2021-09-06 22:41:32 +0000
+// MARK: - Mocks generated from file: ShortlyApp/Data/Repository/GetShortLinkRepository.swift at 2022-02-03 19:31:49 +0000
 
 //
 //  GetShortLinkRepository.swift
@@ -793,7 +793,7 @@ import Foundation
 }
 
 
-// MARK: - Mocks generated from file: ShortlyApp/Data/Repository/SaveLinkHistoryRepository.swift at 2021-09-06 22:41:32 +0000
+// MARK: - Mocks generated from file: ShortlyApp/Data/Repository/SaveLinkHistoryRepository.swift at 2022-02-03 19:31:49 +0000
 
 //
 //  SaveLinkHistoryRepository.swift

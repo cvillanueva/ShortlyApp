@@ -467,11 +467,11 @@
 			buildConfigurationList = CA21F53926DFFB780003F29D /* Build configuration list for PBXNativeTarget "ShortlyApp" */;
 			buildPhases = (
 				FA4E57573AD14ABDFEE9FAC2 /* [CP] Check Pods Manifest.lock */,
+				CAACE71126E12345002E517F /* Swiftgen */,
 				CA21F50B26DFFB760003F29D /* Sources */,
 				CA21F50C26DFFB760003F29D /* Frameworks */,
 				CA21F50D26DFFB760003F29D /* Resources */,
 				CA21F54226DFFE8F0003F29D /* Swiftlint */,
-				CAACE71126E12345002E517F /* Swiftgen */,
 				030A03707ADE86CDA95C0798 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
@@ -669,7 +669,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "if which swiftlint >/dev/null; then\n  swiftlint\nelse\n  echo \"warning: SwiftLint not installed, download from https://github.com/realm/SwiftLint\"\nfi\n";
+			shellScript = "${PODS_ROOT}/SwiftLint/swiftlint\n";
 		};
 		CA8BDEB026E66B2D009C7B8C /* Generate Mock Files with Cuckoo */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -705,7 +705,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "if which swiftgen >/dev/null; then\n    arch -x86_64 swiftgen\nelse\n  echo \"warning: Swiftgen not installed, run: brew install swiftgen\"\nfi\n";
+			shellScript = "${PODS_ROOT}/SwiftGen/bin/swiftgen\n";
 		};
 		FA4E57573AD14ABDFEE9FAC2 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;

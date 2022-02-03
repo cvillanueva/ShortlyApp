@@ -59,7 +59,7 @@ struct ApiShortenResult: Codable, Equatable {
         case fullShareLink = "full_share_link"
         case originalLink = "original_link"
     }
-    
+
     static func make() -> Self {
         ApiShortenResult(
             code: UUID().uuidString,

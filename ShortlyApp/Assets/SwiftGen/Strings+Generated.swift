@@ -27,7 +27,8 @@ internal enum L10n {
     internal static let homeErrorAlertTitle = L10n.tr("Label", "home_error_alert_title")
     /// Your Link History
     internal static let homeLinksHistory = L10n.tr("Label", "home_links_history")
-    /// Paste your first link into\nthe field to shorten it
+    /// Paste your first link into
+    /// the field to shorten it
     internal static let homeSubhead = L10n.tr("Label", "home_subhead")
     /// Let’s get started!
     internal static let homeTitle = L10n.tr("Label", "home_title")
